@@ -1,4 +1,7 @@
 # HamsterCombatAuto: Readme
+![image](https://github.com/user-attachments/assets/5044e419-7d11-4228-8470-e776bda780f8)
+![image](https://github.com/user-attachments/assets/fe199eab-307f-467a-88d6-e30ac19238fb)
+![image](https://github.com/user-attachments/assets/52ba02a9-291d-43f9-a86c-70dc1ae3e242)
 
 HamsterCombatAuto is a Windows Forms application designed to optimize gameplay in the mobile game Hamster Kombat. It streamlines card management by automatically collecting rewards, and strategically upgrading your deck across multiple accounts.
 
